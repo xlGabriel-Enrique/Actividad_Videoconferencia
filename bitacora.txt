@@ -2,3 +2,6 @@
 Se modifico el archivo .cpp ingresando lineas de codigo simple 
 para imprimir por pantalla "Mi Primer Repositorio Local/Remoto"
 -----------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+Se modifico el archivo .cpp ingresando datos complementarios como Universidad, Alumno, Asignatura, Tutor, y NRC.
+-----------------------------------------------------------------------------------------------------------------
